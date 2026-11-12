@@ -9,6 +9,10 @@
 <a href="https://github.com/cleibum2002/cropguard"><img src="assets/project.svg" width="100%" alt="Featured project: CropGuard, real-time crop damage reporting, validation and aid tracking for DA Region X, pilot in Balingasag, Misamis Oriental. PHP and MySQL." /></a>
 
 <br />
+
+<a href="https://github.com/cleibum2002/minimal"><img src="assets/project-minimal.svg" width="100%" alt="Featured project: Minimal, a calm text-only Android launcher with daily app limits, grayscale for tempting apps and a line-art cat by the clock. Kotlin and Android." /></a>
+
+<br />
 <br />
 
 <p align="center">
