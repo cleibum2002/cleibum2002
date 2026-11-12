@@ -32,4 +32,9 @@ Also: Canva · Infinite Painter · Excel · Google Workspace · Claude · ChatGP
   <a href="https://www.linkedin.com/in/angel-cleo-sumagang"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cleibum2002/cleibum2002/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/cleibum2002/cleibum2002/output/snake.svg" width="100%" alt="An orange snake eating my contribution graph" />
+</picture>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:c2410c,100:ff7a2f&section=footer" width="100%" alt="" />
